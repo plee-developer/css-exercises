@@ -1,0 +1,18 @@
+.paragraph {
+    background-color: rgb(196, 68, 142);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#No2 {
+    color: rgb(49, 49, 230);
+    font-size: 36px
+}
+
+.paragraph.cool{
+    font-size: 24px;
+}
+
+#No4 {
+    background-color: rgb(92, 236, 188);
+    font-weight: bold;
+}
